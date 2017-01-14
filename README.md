@@ -1,7 +1,15 @@
-# Watcher of Friends Online
+ 8_vk_friends_online
 
-[TODO. There will be project description]
+Скрипт для вывода друзей находящихся онлайн
+-------------------------------------------
 
-# Project Goals
+Установка:
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+    скачать сам скрипт и фаил requirements.txt
+    pip install -r requirements.txt
+
+----------
+
+Запуск:
+
+    python vk_friends_online.py
