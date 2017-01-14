@@ -6,7 +6,7 @@
 Установка:
 
     скачать сам скрипт и фаил requirements.txt
-    pip install -r requirements.txt
+    в консоли ввести pip install -r requirements.txt
 
 ----------
 
